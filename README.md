@@ -1,3 +1,5 @@
-# Super-Trunfo-em-C-NIVEL-NOVATO
+# Super-Trunfo-em-C-NIVEL-AVENTUREIRO
 Tema 2 - Super Trunfo em c: Fundamentos e Técnicas Avançadas
-Pratica de entrada e saida de informações para o usuário
+
+Uso de abstração e modularidade
+Calculando Densidade Populacional e PIB per Capita
