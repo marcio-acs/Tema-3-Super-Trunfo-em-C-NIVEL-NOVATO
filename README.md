@@ -1,6 +1,11 @@
 # Super-Trunfo-em-C-NIVEL-MESTRE
-Tema 2 - Super Trunfo em c: Fundamentos e Técnicas Avançadas
+Tema 3 - Super Trunfo em c: Desenvolvendo a Lógica do Jogo
 
-Implementação do super poder da carta
-comparação de todos os atributos usando os operadores relacionais.
-um resultado com valor 0 significa que a carta 1 venceu se o resultado for 1 a carta 2 venceu
+o que este jogo faz?
+Receber os dados de duas cartas
+Calcular Densidade Populacional e PIB per capita e exibir nos dados da carta
+Comparar um atributo escolhido(hard coded, ou seja está escolhido dentro do código)
+Uso de comparação com estrutura de condição if-else
+implementado a comparação de um atributo
+Exibir o atributo de ambas as cartas e seus valores
+Exibir quem venceu 
